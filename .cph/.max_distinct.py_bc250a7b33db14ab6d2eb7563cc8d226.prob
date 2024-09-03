@@ -1,0 +1,1 @@
+{"name":"Local: max_distinct","url":"/Users/zhengyi/Desktop/Code/25summer/akuna/max_distinct.py","tests":[{"id":1725374249971,"input":"2\n2 3 3 2 2\n1 3 2 4 1","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/zhengyi/Desktop/Code/25summer/akuna/max_distinct.py","group":"local","local":true}

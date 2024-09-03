@@ -1,0 +1,1 @@
+{"name":"Local: bucket_fill","url":"/Users/zhengyi/Desktop/Code/25summer/akuna/bucket_fill.py","tests":[{"id":1725293162428,"input":"3 5\naabba\naabba\naaacb\n","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/zhengyi/Desktop/Code/25summer/akuna/bucket_fill.py","group":"local","local":true}

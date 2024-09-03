@@ -1,0 +1,1 @@
+{"name":"Local: resource_allocation","url":"/Users/zhengyi/Desktop/Code/25summer/akuna/resource_allocation.py","tests":[{"id":1725248892778,"input":"5\n2 3 7 1 1\n3 4 5 1 2","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/zhengyi/Desktop/Code/25summer/akuna/resource_allocation.py","group":"local","local":true}

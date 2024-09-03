@@ -1,0 +1,1 @@
+{"name":"Local: movie_rating","url":"/Users/zhengyi/Desktop/Code/25summer/akuna/movie_rating.py","tests":[{"id":1725291646326,"input":"-3 2 4 -1 -2 -5","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/zhengyi/Desktop/Code/25summer/akuna/movie_rating.py","group":"local","local":true}
